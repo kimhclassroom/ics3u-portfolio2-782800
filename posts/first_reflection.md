@@ -1,7 +1,2 @@
-# First Reflection
-What I learned this week (bullets are fine, you may include an image):
-
-- Topic(s):
-- What I struggled with:
-- What I’m proud of:
-- Next steps:
+# Learning Log #1
+For my Planet Merge game, I used different types of variables to track the game and its objects. I used int variables for things like score and lives to keep track of the player’s progress and how many chances they have left and also to call different objects (based on their assigned number). I used float variables for the x and y coordinates of objects, their size, and their speed so the planets move smoothly on the screen. I also used a boolean to end the game and display the game over screen. I used an array for the images of all the planets and I also used an arrayList to store all the objects because the number of planets changes constantly as new ones are placed and merged. These variables are used throughout the game for movement, to check for merges, and to figure out when the game ends. 
